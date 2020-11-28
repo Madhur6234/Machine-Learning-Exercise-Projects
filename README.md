@@ -2,6 +2,6 @@
 
 This repository contain some the machine learning exercise projects.
 
-* Linear Regression Project --> Ecommerce Customers
-* Logistic Regression --> Advertising
+* Ecommerce Customers (Linear Regression)
+* Advertising (Logistic Regression)
 * K-Nearest Neighbors
