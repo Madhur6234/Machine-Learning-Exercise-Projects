@@ -3,7 +3,6 @@
 This repository contain some the machine learning exercise projects.
 
 #### Libraries used:
-* For Processing Data:
     * numpy
     * pandas
     * matplotlib
@@ -11,6 +10,6 @@ This repository contain some the machine learning exercise projects.
     * scikit-learn (sklearn)
 
 #### Project List:
-* Ecommerce Customers (Linear Regression)
-* Advertising (Logistic Regression)
-* K-Nearest Neighbors
+   * Ecommerce Customers (Linear Regression)
+   * Advertising (Logistic Regression)
+   * K-Nearest Neighbors
