@@ -3,6 +3,7 @@
 This repository contain some the machine learning exercise projects.
 
 #### Libraries used:
+
    * numpy
    * pandas
    * matplotlib
