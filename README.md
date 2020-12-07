@@ -3,11 +3,11 @@
 This repository contain some the machine learning exercise projects.
 
 #### Libraries used:
-    * numpy
-    * pandas
-    * matplotlib
-    * seaborn
-    * scikit-learn (sklearn)
+   * numpy
+   * pandas
+   * matplotlib
+   * seaborn
+   * scikit-learn (sklearn)
 
 #### Project List:
    * Ecommerce Customers (Linear Regression)
