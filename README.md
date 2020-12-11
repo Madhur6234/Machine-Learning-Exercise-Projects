@@ -16,3 +16,5 @@ This repository contain some the machine learning exercise projects.
    * Advertising (Logistic Regression)
    * K-Nearest Neighbors
    * Lending Club Loan Data (Random Forest and Decision Tree)
+   * Breast Cancer (Support Vector Machine)
+   * Iris Flowers (Support Vector Machine)
