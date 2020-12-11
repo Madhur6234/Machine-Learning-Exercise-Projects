@@ -13,6 +13,7 @@ This repository contain some the machine learning exercise projects.
 
 #### Project List:
    * Ecommerce Customers (Linear Regression)
+   * USA Housing Price (Linear Regression)
    * Advertising (Logistic Regression)
    * K-Nearest Neighbors
    * Lending Club Loan Data (Random Forest and Decision Tree)
